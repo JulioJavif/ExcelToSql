@@ -1,0 +1,16 @@
+{
+  "name": "exceltosql",
+  "version": "1.0.0",
+  "description": "Un paquete creado para convertir tablas de excel a insert de sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sql",
+    "excel",
+    "package"
+  ],
+  "author": "JulioJavif",
+  "license": "ISC"
+}
